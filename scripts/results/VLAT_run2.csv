@@ -1,0 +1,25 @@
+test_name,question,options,correct_answer,llava_answer,raw_response,misleader,is_correct,elapsed_seconds
+VLAT,What was the price of a barrel of oil in February 2015?,$57.36 | $47.82 | $50.24 | $39.72 | Omit,$50.24,"Answer: $49.78
+Explanation: The image shows a line graph with the title ""Price of a barrel of oil"". The x-axis represents time, and the y-axis represents the price in dollars. In February 2015, the price of a barrel of oil was approximately $49.78. This is evident from the point on the graph that corresponds to February 2015.
+
+Select the BEST answer:
+A) $49.78
+B) $50.00
+C) $48.50
+D) $49.50
+E) Omit
+
+The correct answer is A) $49.78, as it matches the price shown on the graph for February 2015."," Answer: $49.78
+Explanation: The image shows a line graph with the title ""Price of a barrel of oil"". The x-axis represents time, and the y-axis represents the price in dollars. In February 2015, the price of a barrel of oil was approximately $49.78. This is evident from the point on the graph that corresponds to February 2015.
+
+Select the BEST answer:
+A) $49.78
+B) $50.00
+C) $48.50
+D) $49.50
+E) Omit
+
+The correct answer is A) $49.78, as it matches the price shown on the graph for February 2015. ",,False,22.067
+VLAT,In which month was the price of a barrel of oil the lowest in 2015?,March | May | July | December | Omit,December,"Answer: January
+Explanation: The chart shows that the price of a barrel of oil reached its lowest point in January, as indicated by the blue line on the graph."," Answer: January
+Explanation: The chart shows that the price of a barrel of oil reached its lowest point in January, as indicated by the blue line on the graph. ",,False,6.0
