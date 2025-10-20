@@ -1,0 +1,49 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "question": "What was the price of a barrel of oil in February 2015?",
+        "options": [
+          "$57.36",
+          "$47.82",
+          "$50.24",
+          "$39.72",
+          "Omit"
+        ],
+        "correct_answer": "$50.24",
+        "Task": "Retrieve Value",
+        "Chart_type": "Line chart",
+        "image_path": "vlat/LineChart.png"
+      },
+      {
+        "id": 2,
+        "question": "In which month was the price of a barrel of oil the lowest in 2015?",
+        "options": [
+          "March",
+          "May",
+          "July",
+          "December",
+          "Omit"
+        ],
+        "correct_answer": "December",
+        "Task": "Find Extremum",
+        "Chart_type": "Line chart",
+        "image_path": "vlat/LineChart.png"
+      },
+      {
+        "id": 3,
+        "question": "What was the price range of a barrel oil in 2015?",
+        "options": [
+          "$35 - $65",
+          "$48.36 - $60.95",
+          "$37.04 - $48.36",
+          "$37.04 - $60.95",
+          "Omit"
+        ],
+        "correct_answer": "$37.04 - $60.95",
+        "Task": "Determine Range",
+        "Chart_type": "Line chart",
+        "image_path": "vlat/LineChart.png"
+	}
+      ]
+  }

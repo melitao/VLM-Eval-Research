@@ -1,0 +1,52 @@
+{
+    "questions": [
+      {
+        "id": 43,
+        "question": "What is the trend sales in gift shop A from Jan to Dec?",
+        "options": [
+          "Generally increasing",
+          "Generally decreasing",
+          "Generally constant",
+          "Cannot be inferred/inadequate information"
+        ],
+        "correct_answer": "Cannot be inferred/inadequate information",
+        "Chart_type": "Line chart",
+        "Misleader": "Cherry Picking",
+        "Task": "Find Correlations/Trends",
+        "wrong_due_to_misleader": "Generally increasing",
+        "image_path": "path/to/images/question43.png"
+      },
+      {
+        "id": 44,
+        "question": "What is the trend of the average price of books from 1960 to 2020 in city Z?",
+        "options": [
+          "Generally increasing",
+          "Generally decreasing",
+          "Generally constant",
+          "Cannot be inferred/inadequate information"
+        ],
+        "correct_answer": "Cannot be inferred/inadequate information",
+        "Chart_type": "Line chart",
+        "Misleader": "Cherry Picking",
+        "Task": "Find Correlations/Trends",
+        "wrong_due_to_misleader": "Generally constant",
+        "image_path": "path/to/images/question44.png"
+      },
+      {
+        "id": 48,
+        "question": "The residents of town Y are voting on a favorite hiking trail, and half of the votes have been counted. The poll closes on Sep 01, 2022. Which of the following is true?",
+        "options": [
+          "Hiking trail A will be voted as the favorite trail.",
+          "Hiking trail B will be voted as the favorite trail.",
+          "Hiking trail C will be voted as the favorite trail.",
+          "Too early to say."
+        ],
+        "correct_answer": "Too early to say.",
+        "Chart_type": "Bar chart",
+        "Misleader": "Concealed Uncertainty",
+        "Task": "Make Predictions",
+        "wrong_due_to_misleader": "Hiking trail A will be voted as the favorite trail.",
+        "image_path": "path/to/images/question48.png"
+      }
+      ]
+  }

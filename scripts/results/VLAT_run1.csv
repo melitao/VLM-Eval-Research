@@ -1,4 +1,0 @@
-test_name,question,options,correct_answer,llava_answer,raw_response,misleader,is_correct,elapsed_seconds
-VLAT,What was the price of a barrel of oil in February 2015?,$57.36 | $47.82 | $50.24 | $39.72 | Omit,$50.24,Omit, Omit,,False,6.182
-VLAT,In which month was the price of a barrel of oil the lowest in 2015?,March | May | July | December | Omit,December,Omit, Omit,,False,2.663
-VLAT,What was the price range of a barrel oil in 2015?,$35 - $65 | $48.36 - $60.95 | $37.04 - $48.36 | $37.04 - $60.95 | Omit,$37.04 - $60.95,Omit, Omit,,False,2.651

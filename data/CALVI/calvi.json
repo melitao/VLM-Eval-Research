@@ -47,6 +47,272 @@
         "Task": "Make Predictions",
         "wrong_due_to_misleader": "Hiking trail A will be voted as the favorite trail.",
         "image_path": "path/to/images/question48.png"
+      },
+      {
+        "id": 45,
+        "question": "Assuming today is May 01, and half of the votes from each state for a favorite ice cream brand have been counted. The color of each state corresponds to the brand that has received the most votes in that state so far. The brand with the most number of colored states will be the most popular brand, and the results will be finalized on May 15. Which of the folowing is true?",
+        "options": [
+          "A will be most popular brand of ice cream.",
+          "B will be least popular brand of ice cream.",
+          "C will be the most popular brand of ice cream.",
+          "Too early to say."
+        ],
+        "correct_answer": "Too early to say.",
+        "Chart_type": "Choropleth Map",
+        "Misleader": "Concealed Uncertainty",
+        "Task": "Make Predictions",
+        "wrong_due_to_misleader": "A will be most popular brand of ice cream.",
+        "image_path": "path/to/images/question45.png"
+      },
+      {
+        "id": 46,
+        "question": "If the temperature gets higher than 100 degree Fahrenheit, then the bottles of water sold must be greater than 750.",
+        "options": [
+          "True",
+          "False",
+          "Cannot be inferred/inadequate information"
+        ],
+        "correct_answer": "False",
+        "Chart_type": "Scatterplot",
+        "Misleader": "Concealed Uncertainty",
+        "Task": "Make Predictions",
+        "wrong_due_to_misleader": "True",
+        "image_path": "path/to/images/question46.png"
+      },
+      {
+        "id": 38,
+        "question": "Within each town, is there a negative relationship between average daily working hours and happiness score?",
+        "options": [
+          "True",
+          "False",
+          "Cannot be inferred/inadequate information"
+        ],
+        "correct_answer": "False",
+        "Chart_type": "Scatterplot",
+        "Misleader": "Inappropriate Aggregation",
+        "Task": "Find Correlations/Trends",
+        "wrong_due_to_misleader": "True",
+        "image_path": "path/to/images/question38.png"
+      },
+      {
+        "id": 35,
+        "question": "Assuming today is Feb 20, 2022, which of the following is true about the vegetables planted by the three farms?",
+        "options": [
+          "All three farms planted more vegetables in 2022 than they did in the previous years.",
+          "All three farms planted fewer vegetables in 2022 than they did in the previous years.",
+          "All three farms planted about the same amount of vegetables in 2022 as they did in the previous years.",
+          "None of the above."
+        ],
+        "correct_answer": "None of the above.",
+        "Chart_type": "Stacked bar chart",
+        "Misleader": "Inappropriate Aggregation",
+        "Task": "Make Comparisons",
+        "wrong_due_to_misleader": "All three farms planted fewer vegetables in 2022 than they did in previous years.",
+        "image_path": "path/to/images/question35.png"
+      },
+      {
+        "id": 36,
+        "question": "Assuming today is Apr 10, 2022, did the total number of cars parked in the three parking lots fall sharply in 2022?",
+        "options": [
+          "Yes",
+          "No",
+          "Cannot be inferred/inadequate information"
+        ],
+        "correct_answer": "Cannot be inferred/inadequate information",
+        "Chart_type": "Stacked bar chart",
+        "Misleader": "Inappropriate Aggregation",
+        "Task": "Make Comparisons",
+        "wrong_due_to_misleader": "Yes",
+        "image_path": "path/to/images/question36.png"
+      },
+      {
+        "id": 39,
+        "question": "Within each city, is there a positive relationship between salary and average daily working hours?",
+        "options": [
+          "Yes",
+          "No",
+          "Cannot be inferred/inadequate information"
+        ],
+        "correct_answer": "Cannot be inferred/inadequate information",
+        "Chart_type": "Scatterplot",
+        "Misleader": "Inappropriate Aggregation",
+        "Task": "Find Correlations/Trends",
+        "wrong_due_to_misleader": "Yes",
+        "image_path": "path/to/images/question39.png"
+      },
+      {
+        "id": 37,
+        "question": "Assuming today is May 01, 2022, which of the following statements is true?",
+        "options": [
+          "Company Z had more new employees in 2018 than in 2020.",
+          "The number of new employees per year fell sharply in 2022.",
+          "The total number of employees in company Z decreased in 2022.",
+          "None of the above."
+        ],
+        "correct_answer": "None of the above.",
+        "Chart_type": "Area chart",
+        "Misleader": "Inappropriate Aggregation",
+        "Task": "Find Correlations/Trends, Make Comparisons",
+        "wrong_due_to_misleader": "The number of new employees per year fell sharply in 2022.",
+        "image_path": "path/to/images/question37.png"
+      },
+      {
+        "id": 34,
+        "question": "Company A sells a board game. Assuming today is June 01, 2022, which of the following statements is true?",
+        "options": [
+          "2004 has more copies sold than 2003",
+          "Copies sold per year fell sharply in 2022.",
+          "Copies sold per year has been strictly increasing since 2003.",
+          "None of the above."
+        ],
+        "correct_answer": "None of the above.",
+        "Chart_type": "Line chart",
+        "Misleader": "Inappropriate Aggregation",
+        "Task": "Find Correlations/Trends, Make Comparisons",
+        "wrong_due_to_misleader": "Copied sold per year fell sharply in 2022.",
+        "image_path": "path/to/images/question34.png"
+      },
+      {
+        "id": 20,
+        "question": "Which of the following is true about the prevalence of the plant species Y?",
+        "options": [
+          "It is more prevalent in region D than in E.",
+          "It is less prevalent in region B than in C.",
+          "It is more prevalent in region C than in A.",
+          "It is less prevalent in region C than in D."
+        ],
+        "correct_answer": "It is less prevalent in region C than in D.",
+        "Chart_type": "Choropleth Map",
+        "Misleader": "Manipulation of Scales - Inappropriate Order",
+        "Task": "Make Comparisons",
+        "wrong_due_to_misleader": "It is more prevalent in region C than in A.",
+        "image_path": "path/to/images/question20.png"
+      },
+      {
+        "id": 25,
+        "question": "Which of the following is true about the three brands of shampoo in city Y from 2001 to 2005?",
+        "options": [
+          "The market share of brand C is on an increasing trend from 2001 to 2005.",
+          "The market share of brand C is higher in 2001 than in 2002.",
+          "Brand B had the largest market share in 2001 compared to its market share in the other years.",
+          "None of the above."
+        ],
+        "correct_answer": "The market share of brand C is higher in 2001 than in 2002.",
+        "Chart_type": "100% stacked bar chart",
+        "Misleader": "Manipulation of Scales - Inappropriate Order",
+        "Task": "Find Correlations/Trends, Make Comparisons, Find Extremum",
+        "wrong_due_to_misleader": "The market share of brand C is on an increasing trend from 2001 to 2005., Brand B had the largest market share in 2001 compared to its market share in the other years.",
+        "image_path": "path/to/images/question25.png"
+      },
+      {
+        "id": 21,
+        "question": "Assuming today is May 10 and given the chart below, which statement about rainfall (mm) is true for the past 14 days?",
+        "options": [
+          "The amount of rainfall peaked at the end of the past 14 days.",
+          "There was more rainfall at the beginning than at the end of the past 14 days.",
+          "None of the days had lower than 40mm of rainfall.",
+          "The amount of rainfall peaked at the beginning of the past 14 days."
+        ],
+        "correct_answer": "There was more rainfall at the beginning than at the end of the past 14 days.",
+        "Chart_type": "Bar chart",
+        "Misleader": "Manipulation of Scales - Inappropriate Order",
+        "Task": "Find Extremum, Make Comparisons",
+        "wrong_due_to_misleader": "The amount of rainfall peaked at the end of the past 14 days.",
+        "image_path": "path/to/images/question21.png"
+      },
+      {
+        "id": 22,
+        "question": "The number of visitors at airport X is decreasing from 2000 to 2005.",
+        "options": [
+          "True",
+          "False",
+          "Cannot be inferred/inadequate information"
+        ],
+        "correct_answer": "False",
+        "Chart_type": "Line chart",
+        "Misleader": "Manipulation of Scales - Inappropriate Order",
+        "Task": "Find Correlations/Trends",
+        "wrong_due_to_misleader": "True",
+        "image_path": "path/to/images/question22.png"
+      },
+      {
+        "id": 23,
+        "question": "Is the total number of shirts sold by company Z in the first half of 2021 higher than that in the second half?",
+        "options": [
+          "Yes",
+          "No",
+          "Cannot be inferred/inadequate information"
+        ],
+        "correct_answer": "No",
+        "Chart_type": "Area chart",
+        "Misleader": "Manipulation of Scales - Inappropriate Order",
+        "Task": "Find Correlations/Trends",
+        "wrong_due_to_misleader": "Yes",
+        "image_path": "path/to/images/question23.png"
+      },
+      {
+        "id": 4,
+        "question": "What is the price of water bottle from store A as a proportion of that from store B?",
+        "options": [
+          "17%",
+          "25%",
+          "50%",
+          "90%"
+        ],
+        "correct_answer": "90%",
+        "Chart_type": "Bar chart",
+        "Misleader": "Manipulation of Scales - Inappropriate Scale Range",
+        "Task": "Make Comparisons",
+        "wrong_due_to_misleader": "17%",
+        "image_path": "path/to/images/question4.png"
+      },
+      {
+        "id": 3,
+        "question": "What is the number of concert tickets sold on Aug 10 as a proportion of that on Aug 11?",
+        "options": [
+          "20%",
+          "40%",
+          "60%",
+          "80%"
+        ],
+        "correct_answer": "80%",
+        "Chart_type": "Bar chart",
+        "Misleader": "Manipulation of Scales - Inappropriate Scale Range",
+        "Task": "Make Comparisons",
+        "wrong_due_to_misleader": "60%",
+        "image_path": "path/to/images/question3.png"
+      },
+      {
+        "id": 8,
+        "question": "Approximately, what is the total number of visitors at amusement park B as a proportion of that at amusement park C from May to December?",
+        "options": [
+          "33%",
+          "67%",
+          "100%",
+          "200%"
+        ],
+        "correct_answer": "33%",
+        "Chart_type": "Stacked area chart",
+        "Misleader": "Manipulation of Scales - Inappropriate Scale Range",
+        "Task": "Make Comparisons",
+        "wrong_due_to_misleader": "200%",
+        "image_path": "path/to/images/question8.png"
+      },
+      {
+        "id": 6,
+        "question": "What is the trend for the percentage of bacteria Z from 1970 to 2020?",
+        "options": [
+          "Generally increasing",
+          "Generally decreasing",
+          "Generally constant",
+          "Cannot be inferred/inadequate information"
+        ],
+        "correct_answer": "Cannot be inferred/inadequate information, Generally increasing",
+        "Chart_type": "Line chart",
+        "Misleader": "Manipulation of Scales - Inappropriate Scale Range",
+        "Task": "Find Correlations/Trends",
+        "wrong_due_to_misleader": "Generally constant",
+        "image_path": "path/to/images/question6.png"
       }
-      ]
+          ]
   }

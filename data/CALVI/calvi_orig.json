@@ -14,7 +14,7 @@
         "Misleader": "Cherry Picking",
         "Task": "Find Correlations/Trends",
         "wrong_due_to_misleader": "Generally increasing",
-        "image_path": "path/to/images/question43.png"
+        "image_path": "calvi/question43.png"
       },
       {
         "id": 44,
@@ -30,7 +30,7 @@
         "Misleader": "Cherry Picking",
         "Task": "Find Correlations/Trends",
         "wrong_due_to_misleader": "Generally constant",
-        "image_path": "path/to/images/question44.png"
+        "image_path": "calvi/question44.png"
       },
       {
         "id": 48,
@@ -46,7 +46,7 @@
         "Misleader": "Concealed Uncertainty",
         "Task": "Make Predictions",
         "wrong_due_to_misleader": "Hiking trail A will be voted as the favorite trail.",
-        "image_path": "path/to/images/question48.png"
+        "image_path": "calvi/question48.png"
       },
       {
         "id": 45,
@@ -62,7 +62,7 @@
         "Misleader": "Concealed Uncertainty",
         "Task": "Make Predictions",
         "wrong_due_to_misleader": "A will be most popular brand of ice cream.",
-        "image_path": "path/to/images/question45.png"
+        "image_path": "calvi/question45.png"
       },
       {
         "id": 46,
@@ -77,7 +77,7 @@
         "Misleader": "Concealed Uncertainty",
         "Task": "Make Predictions",
         "wrong_due_to_misleader": "True",
-        "image_path": "path/to/images/question46.png"
+        "image_path": "calvi/question46.png"
       },
       {
         "id": 38,
@@ -92,7 +92,7 @@
         "Misleader": "Inappropriate Aggregation",
         "Task": "Find Correlations/Trends",
         "wrong_due_to_misleader": "True",
-        "image_path": "path/to/images/question38.png"
+        "image_path": "calvi/question38.png"
       },
       {
         "id": 35,
@@ -108,7 +108,7 @@
         "Misleader": "Inappropriate Aggregation",
         "Task": "Make Comparisons",
         "wrong_due_to_misleader": "All three farms planted fewer vegetables in 2022 than they did in previous years.",
-        "image_path": "path/to/images/question35.png"
+        "image_path": "calvi/question35.png"
       },
       {
         "id": 36,
@@ -123,7 +123,7 @@
         "Misleader": "Inappropriate Aggregation",
         "Task": "Make Comparisons",
         "wrong_due_to_misleader": "Yes",
-        "image_path": "path/to/images/question36.png"
+        "image_path": "calvi/question36.png"
       },
       {
         "id": 39,
@@ -138,7 +138,7 @@
         "Misleader": "Inappropriate Aggregation",
         "Task": "Find Correlations/Trends",
         "wrong_due_to_misleader": "Yes",
-        "image_path": "path/to/images/question39.png"
+        "image_path": "calvi/question39.png"
       },
       {
         "id": 37,
@@ -154,7 +154,7 @@
         "Misleader": "Inappropriate Aggregation",
         "Task": "Find Correlations/Trends, Make Comparisons",
         "wrong_due_to_misleader": "The number of new employees per year fell sharply in 2022.",
-        "image_path": "path/to/images/question37.png"
+        "image_path": "calvi/question37.png"
       },
       {
         "id": 34,
@@ -170,7 +170,7 @@
         "Misleader": "Inappropriate Aggregation",
         "Task": "Find Correlations/Trends, Make Comparisons",
         "wrong_due_to_misleader": "Copied sold per year fell sharply in 2022.",
-        "image_path": "path/to/images/question34.png"
+        "image_path": "calvi/question34.png"
       },
       {
         "id": 20,
@@ -186,7 +186,7 @@
         "Misleader": "Manipulation of Scales - Inappropriate Order",
         "Task": "Make Comparisons",
         "wrong_due_to_misleader": "It is more prevalent in region C than in A.",
-        "image_path": "path/to/images/question20.png"
+        "image_path": "calvi/question20.png"
       },
       {
         "id": 25,
@@ -202,7 +202,7 @@
         "Misleader": "Manipulation of Scales - Inappropriate Order",
         "Task": "Find Correlations/Trends, Make Comparisons, Find Extremum",
         "wrong_due_to_misleader": "The market share of brand C is on an increasing trend from 2001 to 2005., Brand B had the largest market share in 2001 compared to its market share in the other years.",
-        "image_path": "path/to/images/question25.png"
+        "image_path": "calvi/question25.png"
       },
       {
         "id": 21,
@@ -218,7 +218,7 @@
         "Misleader": "Manipulation of Scales - Inappropriate Order",
         "Task": "Find Extremum, Make Comparisons",
         "wrong_due_to_misleader": "The amount of rainfall peaked at the end of the past 14 days.",
-        "image_path": "path/to/images/question21.png"
+        "image_path": "calvi/question21.png"
       },
       {
         "id": 22,
@@ -233,7 +233,7 @@
         "Misleader": "Manipulation of Scales - Inappropriate Order",
         "Task": "Find Correlations/Trends",
         "wrong_due_to_misleader": "True",
-        "image_path": "path/to/images/question22.png"
+        "image_path": "calvi/question22.png"
       },
       {
         "id": 23,
@@ -248,7 +248,7 @@
         "Misleader": "Manipulation of Scales - Inappropriate Order",
         "Task": "Find Correlations/Trends",
         "wrong_due_to_misleader": "Yes",
-        "image_path": "path/to/images/question23.png"
+        "image_path": "calvi/question23.png"
       },
       {
         "id": 4,
@@ -264,7 +264,7 @@
         "Misleader": "Manipulation of Scales - Inappropriate Scale Range",
         "Task": "Make Comparisons",
         "wrong_due_to_misleader": "17%",
-        "image_path": "path/to/images/question4.png"
+        "image_path": "calvi/question4.png"
       },
       {
         "id": 3,
@@ -280,7 +280,7 @@
         "Misleader": "Manipulation of Scales - Inappropriate Scale Range",
         "Task": "Make Comparisons",
         "wrong_due_to_misleader": "60%",
-        "image_path": "path/to/images/question3.png"
+        "image_path": "calvi/question3.png"
       },
       {
         "id": 8,
@@ -296,7 +296,7 @@
         "Misleader": "Manipulation of Scales - Inappropriate Scale Range",
         "Task": "Make Comparisons",
         "wrong_due_to_misleader": "200%",
-        "image_path": "path/to/images/question8.png"
+        "image_path": "calvi/question8.png"
       },
       {
         "id": 6,
@@ -312,7 +312,7 @@
         "Misleader": "Manipulation of Scales - Inappropriate Scale Range",
         "Task": "Find Correlations/Trends",
         "wrong_due_to_misleader": "Generally constant",
-        "image_path": "path/to/images/question6.png"
+        "image_path": "calvi/question6.png"
       },
       {
         "id": 9,
@@ -328,7 +328,7 @@
         "Misleader": "Manipulation of Scales - Inappropriate Scale Range",
         "Task": "Make Comparisons",
         "wrong_due_to_misleader": "20%",
-        "image_path": "path/to/images/question9.png"
+        "image_path": "calvi/question9.png"
       },
       {
         "id": 5,
@@ -344,7 +344,7 @@
         "Misleader": "Manipulation of Scales - Inappropriate Scale Range",
         "Task": "Make Comparisons",
         "wrong_due_to_misleader": "100%",
-        "image_path": "path/to/images/question5.png"
+        "image_path": "calvi/question5.png"
       },
       {
         "id": 1,
@@ -359,7 +359,7 @@
         "Misleader": "Manipulation of Scales - Inappropriate Scale Range",
         "Task": "Make Comparisons",
         "wrong_due_to_misleader": "Summer",
-        "image_path": "path/to/images/question1.png"
+        "image_path": "calvi/question1.png"
       },
       {
         "id": 2,
@@ -374,7 +374,7 @@
         "Misleader": "Manipulation of Scales - Inappropriate Scale Range",
         "Task": "Make Comparisons",
         "wrong_due_to_misleader": "Winter",
-        "image_path": "path/to/images/question2.png"
+        "image_path": "calvi/question2.png"
       },
       {
         "id": 26,
@@ -390,7 +390,7 @@
         "Misleader": "Manipulation of Scales - Inappropriate Use of Scale Functions",
         "Task": "Make Comparisons",
         "wrong_due_to_misleader": "50%",
-        "image_path": "path/to/images/question26.png"
+        "image_path": "calvi/question26.png"
       },
       {
         "id": 27,
@@ -405,7 +405,7 @@
         "Misleader": "Manipulation of Scales - Inappropriate Use of Scale Functions",
         "Task": "Find Correlations/Trends, Make Comparisons",
         "wrong_due_to_misleader": "False",
-        "image_path": "path/to/images/question27.png"
+        "image_path": "calvi/question27.png"
       },
       {
         "id": 28,
@@ -420,7 +420,7 @@
         "Misleader": "Manipulation of Scales - Inappropriate Use of Scale Functions",
         "Task": "Make Comparisons",
         "wrong_due_to_misleader": "Yes, No",
-        "image_path": "path/to/images/question28.png"
+        "image_path": "calvi/question28.png"
       },
       {
         "id": 29,
@@ -435,7 +435,7 @@
         "Misleader": "Manipulation of Scales - Inappropriate Use of Scale Functions",
         "Task": "Make Comparisons",
         "wrong_due_to_misleader": "Yes, No",
-        "image_path": "path/to/images/question29.png"
+        "image_path": "calvi/question29.png"
       },
       {
         "id": 11,
@@ -450,7 +450,7 @@
         "Misleader": "Manipulation of Scales - Unconventional Scale Directions",
         "Task": "Make Comparisons",
         "wrong_due_to_misleader": "False",
-        "image_path": "path/to/images/question11.png"
+        "image_path": "calvi/question11.png"
       },
       {
         "id": 10,
@@ -465,7 +465,7 @@
         "Misleader": "Manipulation of Scales - Unconventional Scale Directions",
         "Task": "Make Comparisons",
         "wrong_due_to_misleader": "True",
-        "image_path": "path/to/images/question11.png"
+        "image_path": "calvi/question11.png"
       },
       {
         "id": 12,
@@ -480,7 +480,7 @@
         "Misleader": "Manipulation of Scales - Unconventional Scale Directions",
         "Task": "Find Correlations/Trends",
         "wrong_due_to_misleader": "True",
-        "image_path": "path/to/images/question12.png"
+        "image_path": "calvi/question12.png"
       },
       {
         "id": 13,
@@ -495,7 +495,7 @@
         "Misleader": "Manipulation of Scales - Unconventional Scale Directions",
         "Task": "Find Correlations/Trends",
         "wrong_due_to_misleader": "Decreasing",
-        "image_path": "path/to/images/question13.png"
+        "image_path": "calvi/question13.png"
       },
       {
         "id": 14,
@@ -511,7 +511,7 @@
         "Misleader": "Manipulation of Scales - Unconventional Scale Directions",
         "Task": "Make Comparisons, Find Extremum",
         "wrong_due_to_misleader": "2000 had the most number of new movies released., There were more new movies released in 1996 than in 1995.",
-        "image_path": "path/to/images/question14.png"
+        "image_path": "calvi/question14.png"
       },
       {
         "id": 18,
@@ -527,7 +527,7 @@
         "Misleader": "Manipulation of Scales - Unconventional Scale Directions",
         "Task": "Make Comparisons, Find Correlations/Trends",
         "wrong_due_to_misleader": "More employees have a satisfaction rating at B than those who have a rating at C.",
-        "image_path": "path/to/images/question18.png"
+        "image_path": "calvi/question18.png"
       },
       {
         "id": 17,
@@ -543,7 +543,7 @@
         "Misleader": "Manipulation of Scales - Unconventional Scale Directions",
         "Task": "Find Correlations/Trends",
         "wrong_due_to_misleader": "Generally increaases",
-        "image_path": "path/to/images/question17.png"
+        "image_path": "calvi/question17.png"
       },
       {
         "id": 16,
@@ -558,7 +558,7 @@
         "Misleader": "Manipulation of Scales - Unconventional Scale Directions",
         "Task": "Find Correlations/Trends",
         "wrong_due_to_misleader": "Increasing, then decreasing",
-        "image_path": "path/to/images/question16.png"
+        "image_path": "calvi/question16.png"
       },
       {
         "id": 19,
@@ -574,7 +574,7 @@
         "Misleader": "Manipulation of Scales - Unconventional Scale Directions",
         "Task": "Find Correlations/Trends",
         "wrong_due_to_misleader": "Generally decreases",
-        "image_path": "path/to/images/question19.png"
+        "image_path": "calvi/question19.png"
       },
       {
         "id": 15,
@@ -589,7 +589,7 @@
         "Misleader": "Manipulation of Scales - Unconventional Scale Directions",
         "Task": "Find Correlations/Trends",
         "wrong_due_to_misleader": "Decreasing, then increasing",
-        "image_path": "path/to/images/question15.png"
+        "image_path": "calvi/question15.png"
       },
       {
         "id": 47,
@@ -604,7 +604,7 @@
         "Misleader": "Misleading Annotation",
         "Task": "Make Comparisons",
         "wrong_due_to_misleader": "True.",
-        "image_path": "path/to/images/question47.png"
+        "image_path": "calvi/question47.png"
       },
       {
         "id": 52,
@@ -619,7 +619,7 @@
         "Misleader": "Misleading Annotation",
         "Task": "Find Correlations/Trends",
         "wrong_due_to_misleader": "True.",
-        "image_path": "path/to/images/question52.png"
+        "image_path": "calvi/question52.png"
       },
       {
         "id": 50,
@@ -635,7 +635,7 @@
         "Misleader": "Misleading Annotations",
         "Task": "Aggregate Values",
         "wrong_due_to_misleader": "30",
-        "image_path": "path/to/images/question50.png"
+        "image_path": "calvi/question50.png"
       },
       {
         "id": 49,
@@ -651,7 +651,7 @@
         "Misleader": "Misleading Annotation",
         "Task": "Aggregate Values",
         "wrong_due_to_misleader": "300",
-        "image_path": "path/to/images/question49.png"
+        "image_path": "calvi/question49.png"
       },
       {
         "id": 30,
@@ -666,7 +666,7 @@
         "Misleader": "Missing Data",
         "Task": "Make Comparisons",
         "wrong_due_to_misleader": "Yes",
-        "image_path": "path/to/images/question30.png"
+        "image_path": "calvi/question30.png"
       },
       {
         "id": 42,
@@ -682,7 +682,7 @@
         "Misleader": "Missing Normalization",
         "Task": "Make Comparisons",
         "wrong_due_to_misleader": "B",
-        "image_path": "path/to/images/question42.png"
+        "image_path": "calvi/question42.png"
       },
       {
         "id": 40,
@@ -697,7 +697,7 @@
         "Misleader": "Overplotting",
         "Task": "Retrieve Value",
         "wrong_due_to_misleader": "No",
-        "image_path": "path/to/images/question40.png"
+        "image_path": "calvi/question40.png"
       }
     ]
   }
