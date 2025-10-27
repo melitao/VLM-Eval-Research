@@ -1,0 +1,13 @@
+Misleader,mean,sd,se,ci_lo,ci_hi,n
+Cherry Picking,50.0,0.0,0.0,50.0,50.0,3
+Concealed Uncertainty,0.0,0.0,0.0,0.0,0.0,3
+Inappropriate Aggregation,33.33333333333333,0.0,0.0,33.33333333333333,33.33333333333333,3
+Manipulation of Scales - Inappropriate Order,0.0,0.0,0.0,0.0,0.0,3
+Manipulation of Scales - Inappropriate Scale Range,37.5,0.0,0.0,37.5,37.5,3
+Manipulation of Scales - Inappropriate Use of Scale Functions,50.0,0.0,0.0,50.0,50.0,3
+Manipulation of Scales - Unconventional Scale Directions,10.0,0.0,0.0,10.0,10.0,3
+Misleading Annotation,66.66666666666666,0.0,0.0,66.66666666666666,66.66666666666666,3
+Misleading Annotations,0.0,0.0,0.0,0.0,0.0,3
+Missing Data,100.0,0.0,0.0,100.0,100.0,3
+Missing Normalization,0.0,0.0,0.0,0.0,0.0,3
+Overplotting,100.0,0.0,0.0,100.0,100.0,3

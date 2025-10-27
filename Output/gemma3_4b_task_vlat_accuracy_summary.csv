@@ -1,0 +1,17 @@
+Task,mean,sd,se,ci_lo,ci_hi,n
+Determine Range,40.0,0.0,0.0,40.0,40.0,3
+Find Anomalies,0.0,0.0,0.0,0.0,0.0,3
+Find Clusters,50.0,0.0,0.0,50.0,50.0,3
+Find Correlations/Trends,75.0,0.0,0.0,75.0,75.0,3
+Find Extremum,50.0,0.0,0.0,50.0,50.0,3
+Find Extremum (derived value),100.0,0.0,0.0,100.0,100.0,3
+Find Extremum (relative value),33.33333333333333,0.0,0.0,33.33333333333333,33.33333333333333,3
+Identify the Hierarchical Structure,100.0,0.0,0.0,100.0,100.0,3
+Make Comparisons,25.0,0.0,0.0,25.0,25.0,3
+Make Comparisons (absolute value),50.0,0.0,0.0,50.0,50.0,3
+Make Comparisons (derived value),66.66666666666666,0.0,0.0,66.66666666666666,66.66666666666666,3
+Make Comparisons (relative value),80.0,0.0,0.0,80.0,80.0,3
+Retrieve Value,16.666666666666664,0.0,0.0,16.666666666666664,16.666666666666664,3
+Retrieve Value (absolute value),50.0,0.0,0.0,50.0,50.0,3
+Retrieve Value (derived value),100.0,0.0,0.0,100.0,100.0,3
+Retrieve Value (relative value),0.0,0.0,0.0,0.0,0.0,3
